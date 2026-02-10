@@ -6,3 +6,4 @@ linea nueva para develop
 
 nuevo gordooo
 
+linea para observar diferencia en repositorio local y remoto
